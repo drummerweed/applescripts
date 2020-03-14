@@ -1,2 +1,2 @@
 # applescripts
-scripts i have collected or created
+Scripts I have collected or created
